@@ -1,10 +1,16 @@
 ○プロジェクト導入
-http://qiita.com/azun/items/5eff99fc1dcc6fdebc19
+	http://qiita.com/azun/items/5eff99fc1dcc6fdebc19
 ○thymeleaf導入
-http://qiita.com/d-yosh/items/55fb07f3d5a9d01f83ad
-http://qiita.com/zateon/items/a4c4db2471cc7204dbee
+	http://qiita.com/d-yosh/items/55fb07f3d5a9d01f83ad
+	http://qiita.com/zateon/items/a4c4db2471cc7204dbee
 ○maven更新でjavaのversionが初期化されてしまう問題
-http://qiita.com/takahitonara/items/769c8775183b13c631c5
+	http://qiita.com/takahitonara/items/769c8775183b13c631c5
 ○maven更新でデプロイメント・アセンブリーが初期化されてしまう問題
-・一時的な対応
-http://www.tekboy.net/archives/673
+	http://www.tekboy.net/archives/673 //一時的な対応
+○github系の設定
+	http://qiita.com/cotrpepe/items/7cafaacb538425a78f1f
+	http://qiita.com/tora470/items/d61c3fcb261e48edc996 // gitignore
+
+
+
+

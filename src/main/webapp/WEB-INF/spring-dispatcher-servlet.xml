@@ -28,7 +28,7 @@
     <mvc:annotation-driven />
 
 	<bean id="templateResolver" class="org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver">
-	    <property name="prefix" value="/WEB-INF/templates/" />
+	    <property name="prefix" value="/templates/" />
 	    <property name="suffix" value=".html" />
 	    <property name="templateMode" value="HTML" />
 	</bean>
